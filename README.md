@@ -1,0 +1,1 @@
+README TEXT DETAIL"# gittest" 
